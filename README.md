@@ -21,7 +21,7 @@ Make sure you have installed all of the following prerequisites on your local ma
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hendra-foo/stock-movie-app.git
+   git clone https://github.com/hendra-foo/anagram-logic-test.git
    ```
 2. Move to repo root directory
    ```sh
